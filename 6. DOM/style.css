@@ -1,0 +1,25 @@
+body {
+  background-color: lightpink;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+p {
+  font-weight: bolder;
+}
+
+button {
+  background-color: blue;
+  color: white;
+  padding: 10px;
+  font-weight: bold;
+  border-radius: 15px;
+  border: none;
+}
+
+.heading-class {
+  background-color: lightseagreen;
+}

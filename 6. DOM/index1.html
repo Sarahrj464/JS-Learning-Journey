@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Sarah - Task Manager</title>
+    <link rel="stylesheet" href="/6. DOM/style.css" />
+  </head>
+  <body>
+    <!-- body has 2 direct children -->
+    <!-- div and button  -->
+    <div id="mydiv">
+      <div>hello
+        <div>welcome</div>
+        <p>javascript</p>
+      </div>
+      <h1 id="heading" class="heading-class">Task Manager</h1>
+      <p class="heading-class">User can add, delete, update and view task</p>
+      <p>Perform CRUD operations</p>
+    </div>
+
+    
+    <!-- second div is child of first div -->
+    <button type="submit" id="my-btn">Submit</button>
+
+    <!-- script.js ku head mn kyun ni lekha? -->
+    <!-- bcz head mn DOM elements accessible ni huty -->
+    <!-- they return null and null is primitive obj called empty object -->
+    <!-- document.body is an object but in head its value is null -->
+
+    <script src="/6. DOM/script.js"></script>
+
+    <!-- <script src="/6. DOM/1.select -elements.js"></script> -->
+    <!-- <script src="/6. DOM/2.changing-content.js"></script> -->
+  </body>
+</html>
