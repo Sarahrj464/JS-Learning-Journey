@@ -65,10 +65,4 @@ Huge thanks to **Shradha Khapra Didi** and the entire **Apna College** team for 
 
 ---
 
-## 📌 Connect With Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-Sarahrj464-black?style=flat&logo=github)](https://github.com/Sarahrj464)
-
----
-
 *"Learning never exhausts the mind." — Keep coding! 💻*
